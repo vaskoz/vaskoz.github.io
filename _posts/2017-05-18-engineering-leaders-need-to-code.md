@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+There is much written on the subject of engineering leaders and whether they need to maintain the technical skills that got them into those leadership positions. I use the term "leaders" to include architects, managers and in some cases directors. Some sources claim that leaders need to let go of their _"old skills"_ or forever be weighed down by them in their new role. Other sources say that leaders need to keep their skills and still deliver some amount of software for the company.
+[[1]](http://www.drdobbs.com/architecture-and-design/engineering-managers-should-code-30-of-t/240165174) [[2]](https://www.infoq.com/articles/architects-should-code-bryson)
+
+I think a hybrid solution is best here, although it is much more demanding on the leader. I think an engineering leader **must** keep their technical skills current but do so outside of their managerial and leadership responsibilities required at their job. This means that the manager should treat their technical skills as a passionate hobby instead of an old habit. This burdens the leader with effectively *two jobs*, but if the leader enjoys technology then this is a labor of love.
+
+Staying technically competent requires some amount of recent software development experience. Designing and writing software is a perishable skill that must be refreshed. A side project can serve as that refreshment in addition to a healthy dose of technical reading. Cloud providers make it easy to spin up clusters of machines and test out ideas at scale for minimal cost.
+
+Personally, this hands-on experience gives me (as a engineering leader) more credibility in technical discussions held within my team and my organization. Plus, there is evidence that [if your boss could do your job, you're more likely to be happy at work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) which is vital for workplace engagement and productivity. Current software development experience gives me the ability to hire top-notch engineers as my recruiting pitch is far more comprehensive than a non-technical leader. For these reasons, I believe engineering leaders should make every effort to maintain their technical knowledge and abilities as they move into management and leadership.
