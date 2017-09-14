@@ -52,17 +52,12 @@ First, I wrote some code to enable the race detector. Now to the right of the "R
 
 To try this yourself, follow the commands below:
 ```
-go get golang.org/x/tour/gotour
-cd $GOPATH/src/golang.org/x/tour/gotour
-git remote add vaskoz https://github.com/vaskoz/tour.git
-git fetch vaskoz
-git checkout -b extendedGoTour vaskoz/master
-go install
+go get github.com/vaskoz/extended-tour
 ```
 
 # Adding content
 
-[This commit](https://github.com/vaskoz/tour/commit/fdcfbd6863c6ecc7291527a4ffd7b00107f00d8b) illustrates how to add new content.
+[This commit](https://github.com/vaskoz/extended-tour/commit/a2418e58b5545dbf2df2af954b5e50ec59a7a72b) illustrates how to add new content.
 
 The procedure begins by adding a new [article file](https://godoc.org/golang.org/x/tools/cmd/present) in the content directory. Then create a subdirectory with the same name.
 
@@ -74,4 +69,4 @@ Finally, edit the "static/js/values.js" file to add the new section.
 
 # Conclusion
 
-GoTour is a great tool to learn Go interactively. I suggest modifying it to fit your training needs. It can serve as your repository of best practices for your group. [My fork](https://github.com/vaskoz/tour) contains features like the race detector and new content that you can modify to fit your specific needs. The reception of this tool for onboarding has been very positive at my organization. Next, I'll be adding examples of libraries that serve specific purposes: circuit-breaking, rate limiting, Kafka and Redis clients, and more. If you self-host, there are no limitations to what packages you can import and run.
+GoTour is a great tool to learn Go interactively. I suggest modifying it to fit your training needs. It can serve as your repository of best practices for your group. [My version](https://github.com/vaskoz/extended-tour) contains features like the race detector and new content that you can modify to fit your specific needs. The reception of this tool for onboarding has been very positive at my organization. Next, I'll be adding examples of libraries that serve specific purposes: circuit-breaking, rate limiting, Kafka and Redis clients, and more. If you self-host, there are no limitations to what packages you can import and run.
