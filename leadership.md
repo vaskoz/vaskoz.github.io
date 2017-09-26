@@ -1,3 +1,9 @@
+---
+layout: page
+title: Leadership
+permalink: /leadership/
+---
+
 # Engineering Leadership
 My artifacts for leading engineering teams
 
