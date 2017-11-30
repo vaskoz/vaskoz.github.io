@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 ["A Tour of Go"](https://tour.golang.org/) is a web-based introduction to the [Go programming language](https://golang.org/). The site runs on [Google’s AppEngine platform](https://cloud.google.com/appengine/). However, the Google AppEngine platform has limitations that limit the usefulness of this resource. Alternatively, GoTour can execute from source code which is the focus of this blog post. One can extend the [tool's source code](https://github.com/golang/tour) and content to provide a better learning experience for experienced developers. Extending GoTour in this way can be used as an onboarding tool as new engineers join your organization. It can educate new members of your team on best practices, techniques, and libraries used by your group. In this post, we'll explore how to make the most of the GoTour tool in your organization.

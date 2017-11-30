@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 There is much written on the subject of engineering leaders and whether they need to maintain the technical skills that got them into those leadership positions. I use the term "leaders" to include architects, managers and in some cases directors. Some sources claim that leaders need to let go of their _"old skills"_ or forever be weighed down by them in their new role. Other sources say that leaders need to keep their skills and still deliver some amount of software for the company.

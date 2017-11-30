@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 I just created a new Go utility named [covermain](https://github.com/vaskoz/covermain)

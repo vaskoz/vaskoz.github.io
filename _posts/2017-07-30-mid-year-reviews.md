@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 I enjoy mid-year reviews as a supplemental form of feedback that reinforces discussions had during one-on-ones with direct reports. A mid-year review should never be a surprise to anyone. The teammate should already know how they're performing and what areas they could be improving on. The review is effectively a summary of the critical and positive feedback given during 26 (half a year, if held weekly) one-on-ones. Reviews help people ops and senior leadership with visibility into individual performance. This visibility is critical for calibration which affects compensation and promotions.

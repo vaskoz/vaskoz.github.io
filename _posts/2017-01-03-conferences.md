@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 Software technology conferences are a great source of professional

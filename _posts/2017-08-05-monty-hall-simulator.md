@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 The [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) is an infamous probability brain teaser. Here is the description of the problem:
