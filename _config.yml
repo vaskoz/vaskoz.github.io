@@ -22,8 +22,6 @@ url: "http://www.vaskoz.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: vaskoz
 github_username:  vaskoz
 
-google_analytics: UA-89786508-1
-
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
@@ -52,3 +50,8 @@ defaults:
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-89786508-1"
+
