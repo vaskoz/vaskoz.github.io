@@ -16,6 +16,9 @@ My artifacts for leading engineering teams
   * Roles and responsibilities by engineering leveling
   * Conflict resolution (healthy discourse)
   * Prioritization of work from Product
+* Leadership README
+  * What I do for the team
+  * What I expect from the team
 
 ## Influential blog posts
 
