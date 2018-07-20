@@ -2,7 +2,7 @@
 title: Break between jobs
 ---
 
-For most of my colleagues, even break for a few weeks between jobs is uncommon. Many people go from one position to the next with not so much as a couple of weeks between them. I believe more people would take a break between jobs but aren't able to. Sometimes this is out of necessity: lots of bills or sole earner and health coverage provider for a family. So if you can afford it, I highly recommend using a break between positions to better yourself and deeply reflect on your career aspirations and goals.
+For most of my colleagues, even a break for a few weeks between jobs is uncommon. Many people go from one position to the next without so much as a couple of weeks between them. I believe more people would take a break between jobs but aren't able to. Sometimes this is out of necessity: lots of bills or sole earner and health coverage provider for a family. So if you can afford it, I highly recommend using a break between positions to better yourself and deeply reflect on your career aspirations and goals.
 
 ## Professional Development
 
