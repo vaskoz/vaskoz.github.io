@@ -16,7 +16,7 @@
 title: Vasko Zdravevski
 email: vzdravevski@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I write about software
+  I write about software, teams and leadership.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.vaskoz.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vaskoz
@@ -26,6 +26,8 @@ github_username:  vaskoz
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "neon"
+
+masthead_title: "Vasko Zdravevski"
 
 exclude:
   - Gemfile
