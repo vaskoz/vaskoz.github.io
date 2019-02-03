@@ -18,7 +18,7 @@ email: vzdravevski@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I write about software
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.vaskoz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.vaskoz.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vaskoz
 github_username:  vaskoz
 
@@ -26,6 +26,7 @@ github_username:  vaskoz
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "neon"
+
 exclude:
   - Gemfile
   - Gemfile.lock
