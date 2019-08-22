@@ -25,7 +25,7 @@ github_username:  vaskoz
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 
 masthead_title: "Vasko Zdravevski"
 
